@@ -1,2 +1,2 @@
 # Recursion_and_Array
-This project will help you guys understand more about how recursion and array work.
+This project will help you guys understand more about how recursion and array are worked and used.
