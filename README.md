@@ -1,2 +1,2 @@
 # Recursion_and_Array
-This project will help you guys understand more about how recursion and array are worked and used.
+The objective of this project is to facilitate a profound and systematic comprehension of the principles of recursion and array structures. Through methodical exploration and practical implementation, it seeks to cultivate a rigorous and nuanced understanding of these fundamental computational concepts.
