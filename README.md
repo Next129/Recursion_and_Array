@@ -1,2 +1,3 @@
 # Recursion_and_Array
-This project aims to develop a deep and structured understanding of recursion and array structures. Through systematic exploration and hands-on implementation, it fosters a solid grasp of these core computational concepts, enhancing problem-solving skills and algorithmic thinking.
+This project is designed to enhance your comprehension of the fundamental concepts of recursion and array manipulation. Through practical implementation and analytical exercises, you will gain a deeper understanding of their mechanisms, interrelations, and applications in algorithmic problem-solving and computational design.
+
