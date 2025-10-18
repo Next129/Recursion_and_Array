@@ -1,2 +1,2 @@
 # Recursion_and_Array
-The objective of this project is to facilitate a profound and systematic comprehension of the principles of recursion and array structures. Through methodical exploration and practical implementation, it seeks to cultivate a rigorous and nuanced understanding of these fundamental computational concepts.
+This project aims to develop a deep and structured understanding of recursion and array structures. Through systematic exploration and hands-on implementation, it fosters a solid grasp of these core computational concepts, enhancing problem-solving skills and algorithmic thinking.
